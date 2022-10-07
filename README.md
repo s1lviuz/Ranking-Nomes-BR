@@ -10,4 +10,4 @@ JSON ou JavaScript Object Notation é um formato de dados aberto independente de
 * getRanking: Atribui uim rank para cada nome beseado no local, e retorna um Array com as alterações
 
 ## Demonstação
-Abri no <a href="https://s1lviuz.github.io/Ranking-Nomes-BR/">GitHub Pages</a> 🚀
+Abrir no <a href="https://s1lviuz.github.io/Ranking-Nomes-BR/">GitHub Pages</a> 🚀

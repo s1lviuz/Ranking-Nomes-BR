@@ -1,0 +1,122 @@
+[
+    {
+        "nome": "Maria",
+        "quantidade": 11734129,
+        "periodo": "todos",
+        "local": "Brasil"
+    },
+    {
+        "nome": "Jose",
+        "quantidade": 5754529,
+        "periodo": "todos",
+        "local": "Brasil"
+    },
+    {
+        "nome": "Ana",
+        "quantidade": 3089858,
+        "periodo": "todos",
+        "local": "Brasil"
+    },
+    {
+        "nome": "Joao",
+        "quantidade": 2984119,
+        "periodo": "todos",
+        "local": "Brasil"
+    },
+    {
+        "nome": "Antonio",
+        "quantidade": 2576348,
+        "periodo": "todos",
+        "local": "Brasil"
+    },
+    {
+        "nome": "Maria",
+        "quantidade": 87040,
+        "periodo": "todos",
+        "local": "Tocantins"
+    },
+    {
+        "nome": "Jose",
+        "quantidade": 36946,
+        "periodo": "todos",
+        "local": "Tocantins"
+    },
+    {
+        "nome": "Joao",
+        "quantidade": 24978,
+        "periodo": "todos",
+        "local": "Tocantins"
+    },
+    {
+        "nome": "Ana",
+        "quantidade": 23496,
+        "periodo": "todos",
+        "local": "Tocantins"
+    },
+    {
+        "nome": "Antonio",
+        "quantidade": 21245,
+        "periodo": "todos",
+        "local": "Tocantins"
+    },
+    {
+        "nome": "Maria",
+        "quantidade": 1111301,
+        "periodo": 2000,
+        "local": "Brasil"
+    },
+    {
+        "nome": "Ana",
+        "quantidade": 935169,
+        "periodo": 2000,
+        "local": "Brasil"
+    },
+    {
+        "nome": "Joao",
+        "quantidade": 794118,
+        "periodo": 2000,
+        "local": "Brasil"
+    },
+    {
+        "nome": "Gabriel",
+        "quantidade": 584024,
+        "periodo": 2000,
+        "local": "Brasil"
+    },
+    {
+        "nome": "Lucas",
+        "quantidade": 505306,
+        "periodo": 2000,
+        "local": "Brasil"
+    },
+    {
+        "nome": "Ana",
+        "quantidade": 9994,
+        "periodo": 2000,
+        "local": "Tocantins"
+    },
+    {
+        "nome": "Maria",
+        "quantidade": 8533,
+        "periodo": 2000,
+        "local": "Tocantins"
+    },
+    {
+        "nome": "Joao",
+        "quantidade": 7369,
+        "periodo": 2000,
+        "local": "Tocantins"
+    },
+    {
+        "nome": "Gabriel",
+        "quantidade": 3986,
+        "periodo": 2000,
+        "local": "Tocantins"
+    },
+    {
+        "nome": "Lucas",
+        "quantidade": 3967,
+        "periodo": 2000,
+        "local": "Tocantins"
+    }
+]

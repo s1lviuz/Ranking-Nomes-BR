@@ -1,5 +1,5 @@
 # Ranking-Nomes-BR
-Uma aplicação Web que faz a leitura de um arquivo Json com dados sobre a nomes no Brasil e Tocantins e exibe duas tabelas com dados até hoje e até o ano 2000 através de HTML, JavaScript e CSS.
+Uma aplicação Web que faz a leitura de um arquivo Json com dados dos nomes mais frequentes no Brasil e Tocantins e exibe duas tabelas com dados até hoje e até o ano 2000 através de HTML, JavaScript e CSS.
 
 ## JSON
 JSON ou JavaScript Object Notation é um formato de dados aberto independente de linguagem que usa texto legível por humanos para expressar objetos de dados que consistem em pares atributo-valor.
